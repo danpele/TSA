@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_stationarity'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'AR(2) stationarity triangle and unit circle visualization showing where characteristic roots must lie for stationarity.'
+
+Keywords: 'stationarity, unit circle, characteristic roots, AR(2), stationarity triangle, boundary conditions'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

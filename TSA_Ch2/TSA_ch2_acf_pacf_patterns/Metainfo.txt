@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_acf_pacf_patterns'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'ACF and PACF identification patterns for AR(1), MA(1), ARMA(1,1). Model identification from correlograms: ACF decay vs cutoff, PACF decay vs cutoff.'
+
+Keywords: 'ACF, PACF, model identification, correlogram, AR, MA, ARMA, cutoff, decay'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

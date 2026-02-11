@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_ar2'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'AR(2) stationarity conditions, characteristic equation, stationarity triangle in (phi1, phi2) space, complex roots and pseudo-cyclical behavior.'
+
+Keywords: 'AR(2), stationarity triangle, characteristic roots, unit circle, pseudo-cycles, complex roots'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

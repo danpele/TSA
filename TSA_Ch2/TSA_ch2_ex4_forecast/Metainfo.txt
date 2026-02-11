@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_ex4_forecast'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'AR(1) forecasting: X_t = 3 + 0.8*X_{t-1} + eps_t with sigma^2 = 4 and X_100 = 20. Compute 1-step, 2-step, long-run forecast and 95% CI.'
+
+Keywords: 'exercise, AR(1), forecast, confidence interval, mean reversion, MSFE'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

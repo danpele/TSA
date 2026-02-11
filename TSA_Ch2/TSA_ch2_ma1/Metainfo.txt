@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_ma1'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'MA(1) model properties: always stationary, ACF cutoff after lag 1, invertibility condition |theta| < 1. Simulation with theta = 0.8, -0.8, 0.4, 1.5.'
+
+Keywords: 'MA(1), moving average, ACF cutoff, invertibility, PACF decay'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_ex3_roots'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Finding characteristic roots of AR(2): X_t = 0.5*X_{t-1} + 0.3*X_{t-2} + eps_t. Quadratic formula, unit circle condition, stationarity check.'
+
+Keywords: 'exercise, AR(2), characteristic roots, quadratic formula, unit circle, stationarity'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

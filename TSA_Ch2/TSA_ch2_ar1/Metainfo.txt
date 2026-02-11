@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_ar1'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'AR(1) model properties: mean mu = c/(1-phi), variance gamma(0) = sigma^2/(1-phi^2), ACF geometric decay rho(h) = phi^h. Simulation with different phi values.'
+
+Keywords: 'AR(1), autoregressive, stationarity, ACF decay, persistence, mean reversion'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

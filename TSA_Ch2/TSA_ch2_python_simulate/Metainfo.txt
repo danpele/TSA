@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_python_simulate'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Simulate AR(1) with phi = 0.6 for 300 observations. Plot series and ACF/PACF, fit model, compare true vs estimated phi, Ljung-Box residual diagnostics.'
+
+Keywords: 'Python exercise, AR(1), simulation, model fitting, Ljung-Box, parameter estimation'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

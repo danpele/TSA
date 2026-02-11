@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_python_diagnostics'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Complete residual diagnostic workflow: residual time plot, ACF of residuals, Q-Q plot, histogram, Ljung-Box test, Jarque-Bera normality test.'
+
+Keywords: 'Python exercise, diagnostics, Ljung-Box, Jarque-Bera, Q-Q plot, normality test'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

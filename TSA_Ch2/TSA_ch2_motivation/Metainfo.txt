@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_motivation'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Comparison of white noise, AR(1), MA(1), and ARMA(1,1) processes with their distinct ACF patterns that motivate ARMA model identification.'
+
+Keywords: 'ARMA, motivation, ACF, white noise, AR process, MA process, temporal dependence'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_python_selection'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'ADF stationarity test, compare AIC/BIC across AR(1), MA(1), ARMA(1,1), ARMA(2,1), select best model, generate forecasts with confidence intervals.'
+
+Keywords: 'Python exercise, model selection, ADF test, AIC, BIC, forecasting'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

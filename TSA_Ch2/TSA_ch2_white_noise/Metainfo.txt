@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_white_noise'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'White noise process simulation and ACF properties. Demonstrates zero autocorrelation structure as the baseline for ARMA modeling.'
+
+Keywords: 'white noise, ACF, zero autocorrelation, baseline process, iid'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

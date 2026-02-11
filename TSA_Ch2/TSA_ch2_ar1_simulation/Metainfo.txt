@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_ar1_simulation'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'AR(1) simulation with phi = 0.9, 0.5, -0.5, -0.9 demonstrating how different coefficient values affect persistence and mean reversion behavior.'
+
+Keywords: 'AR(1), simulation, persistence, mean reversion, positive autocorrelation, negative autocorrelation'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

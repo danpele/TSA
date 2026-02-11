@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_case_study'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Complete ARMA modeling case study on sunspot data. ACF/PACF analysis, AR(2) fitting, residual diagnostics, and 20-year forecasting.'
+
+Keywords: 'case study, sunspots, AR(2), model fitting, diagnostics, forecasting, real data'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

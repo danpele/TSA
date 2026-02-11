@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_estimation'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Comparison of Yule-Walker equations and Maximum Likelihood Estimation for AR(2) parameter estimation.'
+
+Keywords: 'estimation, Yule-Walker, MLE, maximum likelihood, AR(2), parameter comparison'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

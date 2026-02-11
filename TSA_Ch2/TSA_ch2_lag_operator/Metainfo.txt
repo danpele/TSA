@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_lag_operator'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Lag operator L, difference operator Delta, and lag polynomial notation for AR, MA, and ARMA models. Numerical demonstration of first and second differences.'
+
+Keywords: 'lag operator, backshift operator, difference operator, lag polynomial, ARMA notation'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

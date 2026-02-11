@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch2_arma'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'ARMA(p,q) combined AR and MA components. Simulation of ARMA(1,1) with different parameter combinations. Both ACF and PACF decay without sharp cutoff.'
+
+Keywords: 'ARMA, combined process, ACF decay, PACF decay, model identification, stationarity, invertibility'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'
