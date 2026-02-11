@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_model_selection'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Comparison of 8 ARIMA specifications using AIC and BIC information criteria on simulated ARIMA(1,1,1) data.'
+
+Keywords: 'model selection, AIC, BIC, ARIMA order, information criteria, parsimony'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

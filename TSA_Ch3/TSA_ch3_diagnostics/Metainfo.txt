@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_diagnostics'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Four-panel diagnostic: residuals over time, ACF of residuals, Q-Q plot, histogram. Ljung-Box test for white noise.'
+
+Keywords: 'diagnostics, residuals, Ljung-Box, Q-Q plot, normality, white noise test'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

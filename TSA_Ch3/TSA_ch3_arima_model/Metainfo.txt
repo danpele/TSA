@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_arima_model'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'ARIMA model: difference d times then fit ARMA(p,q). ACF/PACF before and after differencing for model identification.'
+
+Keywords: 'ARIMA, Box-Jenkins, model identification, ACF, PACF, differencing'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

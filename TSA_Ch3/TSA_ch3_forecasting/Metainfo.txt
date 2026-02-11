@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_forecasting'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'ARIMA forecasting: confidence intervals expand without bound (unlike ARMA). Demonstrates increasing uncertainty with horizon.'
+
+Keywords: 'forecasting, confidence interval, expanding CI, ARIMA, prediction, horizon'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_rolling_forecast'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Out-of-sample rolling 1-step forecast with expanding window. MAE and RMSE accuracy metrics.'
+
+Keywords: 'rolling forecast, out-of-sample, MAE, RMSE, expanding window, evaluation'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

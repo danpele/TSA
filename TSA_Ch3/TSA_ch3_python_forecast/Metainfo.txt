@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_python_forecast'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Rolling ARIMA forecast with accuracy metrics: MAE, RMSE, MAPE. Out-of-sample evaluation.'
+
+Keywords: 'Python lab, forecast accuracy, MAE, RMSE, MAPE, evaluation'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

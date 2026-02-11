@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_random_walk'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Random walk simulation: multiple paths, variance growth Var(X_t)=t*sigma^2, and characteristic slow ACF decay.'
+
+Keywords: 'random walk, unit root, variance growth, ACF slow decay, non-stationary'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

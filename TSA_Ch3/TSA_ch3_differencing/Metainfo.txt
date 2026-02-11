@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_differencing'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'First and second differencing: transforming I(1) and I(2) processes to stationarity. ADF tests before and after.'
+
+Keywords: 'differencing, first difference, second difference, I(1), I(2), stationarity'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

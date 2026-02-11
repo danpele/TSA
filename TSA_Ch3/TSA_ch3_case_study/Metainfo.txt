@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_case_study'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Complete Box-Jenkins ARIMA case study on US GDP: identification, estimation, diagnostics, 8-step forecast with CI.'
+
+Keywords: 'case study, GDP, ARIMA, Box-Jenkins, forecast, diagnostics, real data'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_trend_comparison'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Key distinction: deterministic trends removed by detrending, stochastic trends (unit roots) removed by differencing.'
+
+Keywords: 'deterministic trend, stochastic trend, detrending, differencing, unit root'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

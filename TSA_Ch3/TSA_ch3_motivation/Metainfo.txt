@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_motivation'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Non-stationary real-world patterns: random walk, drift, deterministic trend. ADF test comparison showing why ARIMA models are needed.'
+
+Keywords: 'ARIMA, motivation, non-stationarity, random walk, unit root, ADF test'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

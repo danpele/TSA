@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_python_box_jenkins'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Complete Box-Jenkins workflow: stationarity test, differencing, ACF/PACF, model comparison, residual diagnostics.'
+
+Keywords: 'Python lab, Box-Jenkins, ARIMA, workflow, model selection'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

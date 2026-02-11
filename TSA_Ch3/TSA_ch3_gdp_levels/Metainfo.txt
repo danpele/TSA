@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_gdp_levels'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'US Real GDP as non-stationary time series. ADF test on levels vs growth rate demonstrating I(1) behavior.'
+
+Keywords: 'GDP, non-stationary, real data, FRED, unit root, growth rate'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

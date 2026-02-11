@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_acf_nonstationary'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'ACF comparison: slow decay for I(1) random walk vs fast decay for stationary AR(1). Differencing restores quick ACF decay.'
+
+Keywords: 'ACF, non-stationary, slow decay, unit root signature, differencing'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'

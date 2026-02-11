@@ -1,0 +1,11 @@
+Name of QuantLet: 'TSA_ch3_random_walk_drift'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Random walk with drift delta: X_t = delta + X_{t-1} + eps_t. Effect of positive and negative drift on trend.'
+
+Keywords: 'random walk, drift, stochastic trend, expected path, linear trend'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 11 February 2026'
