@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch5_btc
+Published in: Time Series Analysis
+Description: Visualization for TSA lecture materials
+Keywords: time series, GARCH, volatility
+Author: Daniel Pele
