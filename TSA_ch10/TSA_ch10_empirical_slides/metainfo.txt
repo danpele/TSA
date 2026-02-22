@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch10_empirical_slides
+Published in: Time Series Analysis
+Description: Rolling VaR backtesting with GARCH-N, GARCH-t, GJR-GARCH-t and Historical Simulation on Bitcoin returns
+Keywords: time series, GARCH, VaR, backtesting, Kupiec test, Christoffersen test, Bitcoin
+Author: Daniel Pele
