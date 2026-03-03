@@ -2,4 +2,4 @@ Name of Quantlet: TSA_ch12_quiz4
 Published in: Time Series Analysis
 Description: Quiz 4 — wavelet advantage
 Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Pele
+Author: Daniel Traian Pele

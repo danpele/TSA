@@ -2,4 +2,4 @@ Name of Quantlet: TSA_ch12_periodogram
 Published in: Time Series Analysis
 Description: Periodogram properties and inconsistency demonstration
 Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Pele
+Author: Daniel Traian Pele

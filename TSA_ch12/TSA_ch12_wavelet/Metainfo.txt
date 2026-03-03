@@ -2,4 +2,4 @@ Name of Quantlet: TSA_ch12_wavelet
 Published in: Time Series Analysis
 Description: Wavelet analysis of US Real GDP — Morlet CWT scalogram
 Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Pele
+Author: Daniel Traian Pele

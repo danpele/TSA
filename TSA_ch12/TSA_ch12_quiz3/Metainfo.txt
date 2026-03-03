@@ -2,4 +2,4 @@ Name of Quantlet: TSA_ch12_quiz3
 Published in: Time Series Analysis
 Description: Quiz 3 — seasonal spectrum
 Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Pele
+Author: Daniel Traian Pele

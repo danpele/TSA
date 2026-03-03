@@ -2,4 +2,4 @@ Name of Quantlet: TSA_ch12_long_memory
 Published in: Time Series Analysis
 Description: Long memory processes and fractional integration — spectral methods
 Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Pele
+Author: Daniel Traian Pele
