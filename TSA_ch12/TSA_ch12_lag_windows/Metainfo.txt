@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_lag_windows
+Published in: Time Series Analysis
+Description: Lag-window (Blackman-Tukey) spectral estimation
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele

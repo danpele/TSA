@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_fourier
+Published in: Time Series Analysis
+Description: Fourier decomposition of periodic signals
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele

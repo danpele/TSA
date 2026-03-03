@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_coherence
+Published in: Time Series Analysis
+Description: Cross-spectral coherence between economic time series
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele

@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_quiz5
+Published in: Time Series Analysis
+Description: Quiz 5 — HP filter
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele

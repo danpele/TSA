@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_business_cycle
+Published in: Time Series Analysis
+Description: Business cycle analysis using spectral methods
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele

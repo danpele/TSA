@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_estimation
+Published in: Time Series Analysis
+Description: Comparison of spectral density estimation methods
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele

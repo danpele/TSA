@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_leakage
+Published in: Time Series Analysis
+Description: Spectral leakage and data tapering with window functions
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele

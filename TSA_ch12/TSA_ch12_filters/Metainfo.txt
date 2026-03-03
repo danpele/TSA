@@ -1,0 +1,5 @@
+Name of Quantlet: TSA_ch12_filters
+Published in: Time Series Analysis
+Description: Linear filter transfer functions — HP, BK, and CF filters
+Keywords: time series, spectral analysis, frequency domain
+Author: Daniel Pele
