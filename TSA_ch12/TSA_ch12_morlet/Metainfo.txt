@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_morlet
-Published in: Time Series Analysis
-Description: Morlet wavelet and continuous wavelet transform (CWT)
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_morlet'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Morlet wavelet and continuous wavelet transform (CWT) — wavelet function at different scales and its frequency localization.'
+
+Keywords: 'Morlet wavelet, CWT, wavelet transform, time-frequency analysis, scale'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

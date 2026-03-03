@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_smoothing
-Published in: Time Series Analysis
-Description: Smoothed periodogram using Daniell kernel
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_smoothing'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Smoothed periodogram using Daniell kernel — moving average of periodogram ordinates with different bandwidths.'
+
+Keywords: 'smoothed periodogram, Daniell kernel, bandwidth, spectral smoothing, bias-variance tradeoff'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

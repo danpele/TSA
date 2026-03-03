@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_aliasing
-Published in: Time Series Analysis
-Description: Aliasing and the Nyquist frequency — effect of undersampling on the periodogram
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_aliasing'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Aliasing demonstration — effect of undersampling on the periodogram; signals above the Nyquist frequency fold back.'
+
+Keywords: 'aliasing, Nyquist frequency, undersampling, periodogram, spectral analysis'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

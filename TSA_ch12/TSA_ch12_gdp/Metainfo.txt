@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_gdp
-Published in: Time Series Analysis
-Description: US Real GDP spectral analysis — periodogram and multitaper estimation
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_gdp'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Spectral analysis of US real GDP — periodogram and multitaper estimate reveal business cycle frequencies.'
+
+Keywords: 'GDP, spectral analysis, periodogram, multitaper, business cycle, frequency domain'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

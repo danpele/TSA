@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_sunspot
-Published in: Time Series Analysis
-Description: Sunspot cycle analysis — periodogram reveals 11-year cycle
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_sunspot'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Sunspot cycle analysis — periodogram of annual sunspot numbers reveals the dominant 11-year solar cycle.'
+
+Keywords: 'sunspot, periodogram, solar cycle, spectral analysis, frequency domain, 11-year cycle'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

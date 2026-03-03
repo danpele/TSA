@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_spectral_density
-Published in: Time Series Analysis
-Description: Spectral density functions of ARMA processes
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_spectral_density'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Theoretical spectral density functions of AR(1), MA(1) and ARMA processes — closed-form expressions and visualization.'
+
+Keywords: 'spectral density, AR process, MA process, ARMA, frequency domain, theoretical spectrum'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

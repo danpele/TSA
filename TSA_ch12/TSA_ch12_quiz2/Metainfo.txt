@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_quiz2
-Published in: Time Series Analysis
-Description: Quiz 2 — periodogram inconsistency
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_quiz2'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Quiz 2: Periodogram inconsistency — demonstrate that variance remains constant as sample size grows.'
+
+Keywords: 'periodogram, inconsistency, variance, sample size, spectral estimation, quiz'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

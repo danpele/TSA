@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_leakage
-Published in: Time Series Analysis
-Description: Spectral leakage and data tapering with window functions
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_leakage'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Spectral leakage demonstration — effect of non-grid frequencies on the periodogram and mitigation via data tapering.'
+
+Keywords: 'spectral leakage, tapering, Hann window, periodogram, DFT, frequency resolution'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_quiz5
-Published in: Time Series Analysis
-Description: Quiz 5 — HP filter
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_quiz5'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Quiz 5: HP filter transfer function — effect of smoothing parameter lambda on the frequency cutoff.'
+
+Keywords: 'HP filter, transfer function, lambda, cutoff frequency, quiz, frequency domain'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

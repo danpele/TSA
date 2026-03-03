@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_quiz4
-Published in: Time Series Analysis
-Description: Quiz 4 — wavelet advantage
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_quiz4'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Quiz 4: Wavelet advantage over Fourier for non-stationary series with time-varying frequency content.'
+
+Keywords: 'wavelet, Fourier, non-stationary, time-frequency, scalogram, quiz'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

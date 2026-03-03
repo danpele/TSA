@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_filters
-Published in: Time Series Analysis
-Description: Linear filter transfer functions — HP, BK, and CF filters
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_filters'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Linear filter transfer functions in the frequency domain — HP, Baxter-King and Christiano-Fitzgerald gain functions.'
+
+Keywords: 'transfer function, HP filter, Baxter-King, Christiano-Fitzgerald, gain, frequency domain'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

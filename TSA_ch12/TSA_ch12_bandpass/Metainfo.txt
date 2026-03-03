@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_bandpass
-Published in: Time Series Analysis
-Description: Band-pass filtering of GDP — Baxter-King and Christiano-Fitzgerald business cycle extraction
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_bandpass'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Band-pass filtering of US real GDP — extraction of business cycle component using Baxter-King and Christiano-Fitzgerald filters.'
+
+Keywords: 'band-pass filter, Baxter-King, Christiano-Fitzgerald, business cycle, GDP, frequency domain'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

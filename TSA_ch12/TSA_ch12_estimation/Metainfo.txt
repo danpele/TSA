@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_estimation
-Published in: Time Series Analysis
-Description: Comparison of spectral density estimation methods
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_estimation'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Comparison of spectral density estimation methods: raw periodogram, Welch segment averaging, and multitaper DPSS estimation.'
+
+Keywords: 'spectral estimation, Welch, multitaper, DPSS, bias-variance tradeoff, periodogram'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

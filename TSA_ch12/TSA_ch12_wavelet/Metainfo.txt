@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_wavelet
-Published in: Time Series Analysis
-Description: Wavelet analysis of US Real GDP — Morlet CWT scalogram
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_wavelet'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Wavelet analysis of US real GDP — Morlet CWT scalogram reveals time-varying business cycle intensity.'
+
+Keywords: 'wavelet, CWT, GDP, scalogram, business cycle, Morlet, time-frequency'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

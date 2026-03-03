@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_periodogram
-Published in: Time Series Analysis
-Description: Periodogram properties and inconsistency demonstration
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_periodogram'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Periodogram properties and inconsistency — variance does not decrease with sample size; demonstrates chi-squared distribution.'
+
+Keywords: 'periodogram, inconsistency, chi-squared, spectral density, asymptotic distribution'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

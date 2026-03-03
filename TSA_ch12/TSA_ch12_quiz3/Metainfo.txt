@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_quiz3
-Published in: Time Series Analysis
-Description: Quiz 3 — seasonal spectrum
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_quiz3'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Quiz 3: Seasonal spectrum — identify seasonal frequency in the periodogram of a periodic series.'
+
+Keywords: 'seasonal spectrum, periodogram, frequency, seasonality, quiz, spectral analysis'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

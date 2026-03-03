@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_long_memory
-Published in: Time Series Analysis
-Description: Long memory processes and fractional integration — spectral methods
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_long_memory'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Long memory processes and fractional integration — ARFIMA(0,d,0) spectral signature, GPH log-periodogram regression.'
+
+Keywords: 'long memory, ARFIMA, fractional integration, GPH estimator, Hurst exponent, spectral density'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

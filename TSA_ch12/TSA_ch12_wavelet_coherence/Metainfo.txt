@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_wavelet_coherence
-Published in: Time Series Analysis
-Description: Wavelet coherence between two economic series
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_wavelet_coherence'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Wavelet coherence between two economic series — time-frequency map of co-movement and phase relationship.'
+
+Keywords: 'wavelet coherence, cross-wavelet, phase, time-frequency, economic cycles'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'

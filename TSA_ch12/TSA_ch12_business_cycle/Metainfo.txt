@@ -1,5 +1,11 @@
-Name of Quantlet: TSA_ch12_business_cycle
-Published in: Time Series Analysis
-Description: Business cycle analysis using spectral methods
-Keywords: time series, spectral analysis, frequency domain
-Author: Daniel Traian Pele
+Name of QuantLet: 'TSA_ch12_business_cycle'
+
+Published in: 'Time Series Analysis and Forecasting (TSA)'
+
+Description: 'Business cycle analysis using spectral methods — comparison of HP, BK and CF cycle extractions on US quarterly real GDP.'
+
+Keywords: 'business cycle, HP filter, band-pass filter, GDP, spectral analysis'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 03 March 2026'
